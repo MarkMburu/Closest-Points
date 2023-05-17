@@ -14,7 +14,7 @@ Closest Points API is a Django application that receives a set of points on a gr
 1. Clone the repository:
 
     ```
-       git clone <repository_url>
+       git clone https://github.com/MarkMburu/Closest-Points.git
     ```
 2. Install the dependencies:
 
